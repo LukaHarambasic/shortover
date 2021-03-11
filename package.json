@@ -1,8 +1,8 @@
 {
-  "name": "shortover",
-  "productName": "shortover",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "name": "Shortover",
+  "productName": "Shortover",
+  "version": "0.1.0",
+  "description": "Media as overlay per global shortcut.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
