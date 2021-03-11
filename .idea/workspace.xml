@@ -19,19 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="debd6731-0e19-4f12-b0b8-f7431a3bbc9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/confetti.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hello.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/party_hard.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/see_you_soon_dwayne.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/see_you_soon_spongebob.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/thanks.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="debd6731-0e19-4f12-b0b8-f7431a3bbc9c" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615484181387</updated>
-      <workItem from="1615484182435" duration="2001000" />
+      <workItem from="1615484182435" duration="2027000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1615488353943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615488353943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +89,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1615488356168">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1615488356168" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 {
   "name": "Shortover",
   "productName": "Shortover",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Media as overlay per global shortcut.",
   "main": "src/index.js",
   "scripts": {
